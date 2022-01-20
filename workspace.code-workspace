@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\dio_javascript"
+		},
+		{
+			"path": "..\\..\\..\\dio_html_css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dio_javascript",
+		"liveServer.settings.port": 5501
+	},
+	"extensions": {
+		"recommendations": [
+			"hdg.live-html-previewer"
+		]
+	}
+}
